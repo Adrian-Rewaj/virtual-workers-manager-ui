@@ -10,6 +10,8 @@ This is a part of full system:
 
 ### Installation
 
+Rename .env.example to .env and fill values.
+
 ``` bash
 $ npm install
 ```
